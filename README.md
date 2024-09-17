@@ -7,18 +7,42 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/harshith2306/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@harshithsai94)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Biking;and+a+homemade+chef%3F)](https://git.io/typing-svg)
-<!--
-**harshithsaiv/harshithsaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+and+Biking;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Let me set the records straight. Lewis Hamilton is the GOAT and I will not hear otherwise! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+* 🖥️ Recently started working at CISO office as Cyber Security Student Assistant.
+* 🖨️ I write solution articles and explore cards for <a href="https://www.leetcode.com">Leetcode</a> on the side.
+* 🚵🏻‍♂️ Member of the Sac State Cycling Group. Let's ride sometime if you're in the area!
+* ⛰️Love exploring off-beat hikes and peaks in California. My absolute favorite:  🥁🥁 <a href="[https://www.wta.org/go-hiking/hikes/mailbox-peak](https://tahoerimtrail.org/)">Mailbox Peak</a>
+* 😄 Pronouns: He/him
+* 🧐 A quirky fact about me: I have a knack for diving deep into explanations, even when a simple answer would do. Over-explaining? Guilty as charged!
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
+## 🚀 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Thread Groups in JAVA!](https://medium.com/@harshithsai94/thread-group-in-java-46af36eb99ca)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎧 What's Vibin?
+[https://github-profile-apple-music.web.app/api/v1/users/i0dXT9GEpzGZAzfRwGjT/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/i0dXT9GEpzGZAzfRwGjT/recent/played/tracks?template=template_1_1)
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithsaiv&show_icons=true&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithsaiv&layout=compact" />
+
+![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
+
+
