@@ -31,7 +31,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 What's Vibin?
-[https://github-profile-apple-music.web.app/api/v1/users/i0dXT9GEpzGZAzfRwGjT/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/i0dXT9GEpzGZAzfRwGjT/recent/played/tracks?template=template_1_1)
+![Recently Played Tracks](https://github-profile-apple-music.web.app/api/v1/users/i0dXT9GEpzGZAzfRwGjT/recent/played/tracks?template=template_1_1)
 
 ## 👨‍💻 Github Stats
 
@@ -39,7 +39,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithsaiv&layout=compact" />
 
-![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+![Metrics](https://github.com/harshithsaiv/harshithsaiv/blob/main/github-metrics.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
