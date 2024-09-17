@@ -1,4 +1,5 @@
-## Hi, I'm Harshith Sai 👋 , You can call me SAI (:man_technologist::lock::trophy::mountain_biking:)
+## Hi, I'm Harshith Sai 👋, but you can call me Sai!
+ (:man_technologist::lock::trophy::mountain_biking:)
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithsaiv)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-sai-v/)
