@@ -1,13 +1,13 @@
-## Hi, I'm Harshith Sai 👋 (:man_technologist::lock::trophy::mountain_biking:)
+## Hi, I'm Harshith Sai 👋 , You can call me SAI (:man_technologist::lock::trophy::mountain_biking:)
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithsaiv)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-sai-v/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://harshithsaiv.github.io/portfolio/)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/harveer_sai)
+[![X (formerly Twitter)](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/harveer_sai)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/harshith2306/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@harshithsai94)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+and+Biking;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Graduate+Student;Tech+,+Travel+and+Biking;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 Let me set the records straight. Lewis Hamilton is the GOAT and I will not hear otherwise! 
 
