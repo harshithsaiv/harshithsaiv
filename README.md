@@ -16,7 +16,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 🖥️ Recently started working at CISO office as Cyber Security Student Assistant.
 * 💡 I enjoy writing in-depth solution articles and breaking down complex problems on [LeetCode](https://www.leetcode.com), helping others level up their coding skills!
 * 🚵🏻‍♂️ Member of the Sac State Cycling Group. Let's ride sometime if you're in the area!
-* ⛰️Love exploring off-beat hikes and peaks in California. My absolute favorite:  🥁🥁 <a href="[https://www.wta.org/go-hiking/hikes/mailbox-peak](https://tahoerimtrail.org/)">Mailbox Peak</a>
+* ⛰️Love exploring off-beat hikes and peaks in California. My absolute favorite:  🥁🥁 <a href="[https://www.nps.gov/seki/planyourvisit/whitney.htm](https://www.nps.gov/seki/planyourvisit/whitney.htm)">Mount Whitney</a>
 * 😄 Pronouns: He/him
 * 🧐 A quirky fact about me: I have a knack for diving deep into explanations, even when a simple answer would do. Over-explaining? Guilty as charged!
 
