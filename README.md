@@ -13,13 +13,34 @@ Let me set the records straight. Lewis Hamilton is the GOAT and I will not hear 
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 🖥️ Recently started working at CISO office as Cyber Security Student Assistant.
+* 🖥️ Recently started working as a Software Engineer at State Street.
 * 💡 I enjoy writing in-depth solution articles and breaking down complex problems on [LeetCode](https://www.leetcode.com), helping others level up their coding skills!
 * 🚵🏻‍♂️ Member of the Sac State Cycling Group. Let's ride sometime if you're in the area!
 * ⛰️Love exploring off-beat hikes and peaks in California. My absolute favorite:  🥁🥁 <a href="[https://www.nps.gov/seki/planyourvisit/whitney.htm](https://www.nps.gov/seki/planyourvisit/whitney.htm)">Mount Whitney</a>
 * 😄 Pronouns: He/him
 * 🧐 A quirky fact about me: I have a knack for diving deep into explanations, even when a simple answer would do. Over-explaining? Guilty as charged!
 
+## 💼 Recent Experience
+### 🏦 State Street – Software Engineering Intern *(Summer 2025)*  
+Working in the **Foreign Exchange (FX) division**, focused on developing secure and scalable backend infrastructure for post-trade processing and real-time analytics.
+
+- Developed and optimized **Forex Trading APIs** using **Java**, **Spring Boot**, and **PostgreSQL**, supporting **T+1 settlement readiness** and **trade audit workflows**.
+- Built microservices that consume trade data and apply **AI-based anomaly detection** to flag inconsistencies between **buy-side** and **sell-side** instructions.
+- Integrated support for **MT300 messages**, contributing to the firm’s ongoing **SWIFT MX migration** initiative, ensuring compatibility with ISO 20022 standards.
+- Worked with **Kafka**, **RabbitMQ**, and **Hazelcast** to implement fault-tolerant, low-latency messaging pipelines across FX trade systems.
+- Implemented a **real-time deployment verification system** using **Jenkins**, **Grafana**, and **Slack**, reducing verification time by 70%.
+- Developed components for trade reconciliation and compliance reporting against **LCH** and **CLR** requirements (central counterparty clearing).
+- Collaborated with teams handling SWIFT protocol integration and helped audit message formats for regulatory alignment and downstream system ingestion.
+
+### 🛡️ CISO Office – Cyber Security Student Assistant
+
+As a student assistant in the Cyber Security Office, I contributed to strengthening the university’s security infrastructure by designing and implementing scalable observability solutions, collaborating on secure architecture reviews, and driving proactive monitoring initiatives.
+
+- **Proposed and implemented** a centralized **Elasticsearch-based log aggregation system**, significantly improving visibility across applications and reducing incident triage time.
+- Built a reliable, scalable pipeline using the **ELK Stack (Elasticsearch, Logstash, Kibana)** to ingest, normalize, and index logs from various security-critical applications.
+- Developed real-time dashboards and alerting rules to track system health, detect application anomalies, and identify potential security events before escalation.
+- Participated in **secure architecture reviews**, helping teams strengthen their authentication flows, logging coverage, and data access patterns.
+- Assisted in operationalizing phishing simulations, managing student security awareness initiatives, and supporting university-wide alerting workflows.
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
